@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cricket Score Keeper</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="one_a">+1 Run</string>
+    <string name="two_a">+2 Runs</string>
+    <string name="three_a">+3 Runs</string>
+    <string name="four_a">+4 Runs</string>
+    <string name="six_a">+6 Runs</string>
+    <string name="one_b">+1 Run</string>
+    <string name="two_b">+2 Runs</string>
+    <string name="three_b">+3 Runs</string>
+    <string name="four_b">+4 Runs</string>
+    <string name="six_b">+6 Runs</string>
+    <string name="reset">Reset</string>
+</resources>
